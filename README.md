@@ -1,2 +1,2 @@
 # bitwise
-chapter categorization chapter
+chapter categorization 
